@@ -13,6 +13,4 @@ https://krushtons.github.io/run-buddy/
 ## Contribution
 Made With :heartpulse: by Kaitlyn Smith
 
-# Run Buddy Inc.
-
-
+### @copy 2019 Run Buddy, Inc
